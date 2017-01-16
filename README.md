@@ -22,15 +22,15 @@ Low contrast is good for vitality of your eyes.
 
 ---------------------------------------------------------
 ### HTML
-![Screenshot](https://github.com/alexiTakov/atom-dark-sexy-dim-theme-syntax/blob/master/screen/html-syntax.png)
-![Screenshot](https://github.com/alexiTakov/atom-dark-sexy-dim-theme-syntax/blob/master/screen/html-syntax2.png)
+![Screenshot](https://github.com/alexiTakov/atom-dark-sexy-dim-theme-syntax/blob/master/screen/html-syntax.png?raw=true)
+![Screenshot](https://github.com/alexiTakov/atom-dark-sexy-dim-theme-syntax/blob/master/screen/html-syntax2.png?raw=true)
 
 
 ### Javascript
-![Screenshot](https://github.com/alexiTakov/atom-dark-sexy-dim-theme-syntax/blob/master/screen/js-syntax.png)
+![Screenshot](https://github.com/alexiTakov/atom-dark-sexy-dim-theme-syntax/blob/master/screen/js-syntax.png?raw=true)
 
 ### Php
-![Screenshot](https://github.com/alexiTakov/atom-dark-sexy-dim-theme-syntax/blob/master/screen/php-syxtax.png)
+![Screenshot](https://github.com/alexiTakov/atom-dark-sexy-dim-theme-syntax/blob/master/screen/php-syxtax.png?raw=true)
 
 ### Css
 ![](https://github.com/alexiTakov/atom-dark-sexy-dim-theme-syntax/blob/master/screen/сss-syntax.png?raw=true)
