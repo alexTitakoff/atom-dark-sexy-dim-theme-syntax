@@ -23,6 +23,23 @@
   font-weight: normal;
 }
 
+.syntax--class {
+  color: #5D76B7;
+  font-weight: bold;
+}
+
+
+.syntax--storage.syntax--modifier {
+  color: #5D76B7;
+  font-weight: bold;
+
+}
+
+
+.syntax--entity.syntax--name.syntax--class, .syntax--entity.syntax--name.syntax--type.syntax--class {
+  color: darken(@purple, 20%);
+  font-weight: bold;
+}
 
 .syntax--variable {
     color: @blue;
@@ -54,6 +71,14 @@
 
 .syntax--arguments {
   color: darken(@code-font-color, 20%);
+}
+
+&.syntax--source {
+    color: darken(@code-font-color, 20%) !important;
+}
+
+.syntax--punctuation.syntax--definition {
+    color: #4d5a5e;
 }
 
 // .syntax--source.syntax--js .syntax--function.syntax--name {
