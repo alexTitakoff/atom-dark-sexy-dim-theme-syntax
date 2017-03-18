@@ -1,5 +1,7 @@
 .source.js, .source.ts, .source.jsx {
 
+
+//функции методы
   .function{
     color: #5D76B7;
     font-weight: bold;
@@ -10,6 +12,21 @@
     }
   }
 
+   .syntax--function.syntax--name,  {
+    color: #5D76B7;
+    font-weight: bold;
+}
+
+.arguments {
+  color: @code-font-color;
+  font-weight: normal;
+}
+
+//функции методы
+
+
+
+
   .var {
     color: #5D76B7;
     font-weight: bold;
@@ -18,10 +35,7 @@
   .other {
 
   }
-.arguments {
-  color: @code-font-color;
-  font-weight: normal;
-}
+
 
 .syntax--class {
   color: #5D76B7;
@@ -34,6 +48,8 @@
   font-weight: bold;
 
 }
+
+
 
 
 .syntax--entity.syntax--name.syntax--class, .syntax--entity.syntax--name.syntax--type.syntax--class {
@@ -65,8 +81,9 @@
   font-weight: bold;
 }
 
-.syntax--property  {
-  color: darken(@code-font-color, 20%);
+
+.syntax--property {
+  color: darken(@purple, 20%);
 }
 
 .syntax--arguments {
@@ -77,8 +94,16 @@
     color: darken(@code-font-color, 20%) !important;
 }
 
+
+
+
+// синтак пунктуцации скобо квадратных круглых
 .syntax--punctuation.syntax--definition {
     color: #4d5a5e;
+}
+
+.syntax--meta.syntax--brace.syntax--round {
+  color: #4d5a5e;
 }
 
 // .syntax--source.syntax--js .syntax--function.syntax--name {
